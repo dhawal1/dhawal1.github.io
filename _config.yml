@@ -6,7 +6,9 @@ baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: jekyllrb
 github_username:  jekyll
-
+redirect_from: "dhawal.com"
+gems:
+  - jekyll-redirect-from
 # Build settings
 markdown: kramdown
 permalink: pretty
